@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deastl&label=Profile%20views&color=0e75b6&style=flat" alt="deastl" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deastl" alt="deastl" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deastl&theme=matrix" alt="deastl" /></a> </p>
 
 - 🔭 I’m currently working on [Mips Discord Emulator](https://github.com/DeaSTL/discord-cpu-emulator)
 
