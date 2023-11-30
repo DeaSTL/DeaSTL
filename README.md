@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deastl&theme=matrix" alt="deastl" /></a> </p>
 
-- 🔭 I’m currently working on [CMaker Project Manager](https://github.com/cmaker-dev/cmaker)
+- 🔭 I’m currently working on [Frate Package Manager / Project Blueprint System](https://github.com/cmaker-dev/cmaker)
 
 - 🌱 I’m currently learning **Kernel Development**
 
