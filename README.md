@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **C/C++, Assembly, Java, HTML/CSS, VueJS, Golang, Python, or Lua**
 
-- 📫 How to reach me **jhartway99@gmail.com**
-
 
 
 <h3 align="left">Languages and Tools:</h3>
